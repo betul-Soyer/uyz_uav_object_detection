@@ -1,16 +1,16 @@
-\# İHA Görüntülerinde Derin Öğrenme Tabanlı Nesne Tespiti Yöntemlerinin Karşılaştırılması
+# İHA Görüntülerinde Derin Öğrenme Tabanlı Nesne Tespiti Yöntemlerinin Karşılaştırılması
 
 
 
-\*\*Ders:\*\* Uygulamalı Yapay Zeka (Dönem Projesi)
+**Ders:** Uygulamalı Yapay Zeka (Dönem Projesi)
 
-\*\*Öğrenci:\*\* Betül Soyer – 241230016
+**Öğrenci:** Betül Soyer – 241230016
 
-\*\*Bölüm:\*\* Yapay Zeka ve Makine Öğrenmesi, Konya Teknik Üniversitesi
+**Bölüm:** Yapay Zeka ve Makine Öğrenmesi, Konya Teknik Üniversitesi
 
 
 
-\## Problem
+## Problem
 
 
 
@@ -18,17 +18,17 @@ Bu projede drone (İHA) kamerasıyla çekilmiş görüntülerde araç, yaya ve b
 
 
 
-\## Veri Setleri
+## Veri Setleri
 
 
 
-\- \*\*VisDrone2019-DET:\*\* Tianjin Üniversitesi tarafından yayınlanan, Çin'in 14 şehrinde drone ile çekilmiş görüntülerden oluşan veri seti. 6.471 eğitim, 548 doğrulama ve 1.610 test görüntüsü, 10 nesne sınıfı içerir.
+- **VisDrone2019-DET:** Tianjin Üniversitesi tarafından yayınlanan, Çin'in 14 şehrinde drone ile çekilmiş görüntülerden oluşan veri seti. 6.471 eğitim, 548 doğrulama ve 1.610 test görüntüsü, 10 nesne sınıfı içerir.
 
 &#x20; Kaynak: Zhu vd., "Detection and Tracking Meet Drones Challenge", IEEE TPAMI.
 
 &#x20; Bilgi: https://docs.ultralytics.com/datasets/detect/visdrone/
 
-\- \*\*UAVDT:\*\* 10 saatlik drone videolarından seçilmiş yaklaşık 80.000 etiketli kareden oluşan, araç tespiti ve takibi için hazırlanmış veri seti.
+- **UAVDT:** 10 saatlik drone videolarından seçilmiş yaklaşık 80.000 etiketli kareden oluşan, araç tespiti ve takibi için hazırlanmış veri seti.
 
 &#x20; Kaynak: Du vd., "The Unmanned Aerial Vehicle Benchmark: Object Detection and Tracking", ECCV 2018.
 
@@ -36,7 +36,7 @@ Bu projede drone (İHA) kamerasıyla çekilmiş görüntülerde araç, yaya ve b
 
 
 
-\## Kapsam Değişikliği
+## Kapsam Değişikliği
 
 
 
@@ -44,7 +44,7 @@ Bu projede drone (İHA) kamerasıyla çekilmiş görüntülerde araç, yaya ve b
 
 
 
-\## Proje Durumu
+## Proje Durumu
 
 
 
@@ -52,7 +52,7 @@ Faz 1 (veri seti analizi, ön işleme, literatür taraması ve yöntem seçimi) 
 
 
 
-\---
+---
 
 
 
