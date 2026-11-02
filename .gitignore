@@ -1,0 +1,12 @@
+# Veri setleri (çok büyük, depoya eklenmez)
+data/
+*.zip
+
+# Model çıktıları ve ağırlıklar
+runs/
+*.pt
+
+# Python ve Jupyter geçici dosyaları
+__pycache__/
+.ipynb_checkpoints/
+.venv/
