@@ -1,8 +1,8 @@
 # İHA Görüntülerinde Derin Öğrenme Tabanlı Nesne Tespiti Yöntemlerinin Karşılaştırılması
 
-**Ders:** Uygulamalı Yapay Zeka (Dönem Projesi)
-**Öğrenci:** Betül Soyer – 241230016
-**Bölüm:** Yapay Zeka ve Makine Öğrenmesi, Konya Teknik Üniversitesi
+- **Ders:** Uygulamalı Yapay Zeka (Dönem Projesi)
+- **Öğrenci:** Betül Soyer – 241230016
+- **Bölüm:** Yapay Zeka ve Makine Öğrenmesi, Konya Teknik Üniversitesi
 
 ## Problem
 
