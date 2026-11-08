@@ -1,0 +1,7 @@
+﻿veri seti,bölüm,görüntü (önce),görüntü (sonra),kutu (önce),atılan: ignored/others,atılan: geçersiz kutu,atılan: etiketsiz kare,kutu (sonra)
+VisDrone,train,6471,6471,353550,10345,1,0,343204
+VisDrone,val,548,548,40169,1410,0,0,38759
+VisDrone,test,1610,1610,77547,2445,0,0,75102
+UAVDT,train,19059,1884,348386,0,0,31,34951
+UAVDT,val,5084,511,74525,0,0,0,7492
+UAVDT,test,16592,16580,375884,0,0,12,375884
